@@ -3005,3 +3005,11 @@ td {
 th {
     font-weight: bold;
 }
+/** Testimonials css */
+
+.title-bar .heading-border-lg-new {
+    width: 636px;
+    height: 10px;
+    background-color: #2196f3;
+    margin: 0 auto 20px auto;
+}
